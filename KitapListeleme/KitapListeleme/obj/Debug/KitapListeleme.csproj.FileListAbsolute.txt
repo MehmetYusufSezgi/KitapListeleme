@@ -1,0 +1,40 @@
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\KitapListeleme.exe.config
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\KitapListeleme.exe
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\KitapListeleme.pdb
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.Form1.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.Properties.Resources.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.csproj.GenerateResource.cache
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.exe
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.pdb
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.FormDuzenle.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.FormEkle.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.FormListele.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.FormSil.resources
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\KitapListeleme.exe.manifest
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\KitapListeleme.application
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.exe.manifest
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\obj\Debug\KitapListeleme.application
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\DBKitaplar.mdf
+C:\Users\Mehmet Yusuf Sezgi\Desktop\C#\KitapListeleme\bin\Debug\DBKitaplar_log.ldf
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.csproj.AssemblyReference.cache
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.Form1.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.FormDuzenle.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.FormEkle.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.FormListele.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.FormSil.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.Properties.Resources.resources
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.csproj.GenerateResource.cache
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.exe
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.pdb
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\bin\Debug\KitapListeleme.exe.config
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\bin\Debug\KitapListeleme.exe.manifest
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\bin\Debug\KitapListeleme.application
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\bin\Debug\KitapListeleme.exe
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\bin\Debug\KitapListeleme.pdb
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.csproj.CoreCompileInputs.cache
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.exe.manifest
+C:\Users\msezg\OneDrive\Masaüstü\KitapListeleme\KitapListeleme\obj\Debug\KitapListeleme.application
